@@ -8,22 +8,5 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  font-size: 2rem;
   font-style: normal;
-}
-
-.poppins-regular {
-  font-weight: 400;
-}
-
-.poppins-bold {
-  font-weight: 700;
-}
-
-.poppins-semibold {
-  font-weight: 600;
-}
-
-.poppins-light {
-  font-weight: 300;
 }
